@@ -1,0 +1,2 @@
+--rbxsig%mpFDqD7Rpq50pt6EXjEr2vJcyYZig9qVCs8ZrMIkPeC9LrjD3SjCdP1fPsfY0A/TvK9/R+R4SRWDTpT6pEHUsq4S6hkllaTJAZVgI3rmAjSz6JkkZ+fP1OLMBoXLn6rnFaYdbeIwUFkX9X9HgLIXctDBS4d5zVxVJzCFxa9Jv1s=%
+{"PingReceiver":"https://assetgame.roblox.com/Game/ClientPresence.ashx?version=old&PlaceID=0","PingIntervalInSeconds":120,"UserId":"","MainGuiScriptID":37801172,"AssetUrl":"https://assetgame.roblox.com/Asset/","BaseUrl":"http://www.roblox.com/","ApiProxyEndPoint":"https://api.roblox.com"}
